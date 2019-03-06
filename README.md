@@ -1,7 +1,8 @@
 # Bootstrap-play
-So Messy code<br>
+So messy code<br>
 
-html/css(bootstrap4)/jQuery<br>
-xd→coding<br>
+Bootstrap4<br>
+Netlify<br>
 
-https://coordinate-cat.github.io/
+
+https://coordinate-cat.netlify.com/
